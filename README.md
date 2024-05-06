@@ -1,6 +1,7 @@
 <div align="center">
-  <imge src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlra2I1eWNmeWYzOW02Ynk3dHgyYTM3cGsyY2V0ZGJjMjA3NG1jaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cat Programming" width="400" />
 </div>
+
 
 # Hi there, I'm Tharindu Samarakoon! 👋
 
